@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" fill="none">
+  <defs>
+    <linearGradient id="wash" x1="710" y1="75" x2="1058" y2="735" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22314A"/>
+      <stop offset="1" stop-color="#0A1223" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="781" y1="161" x2="1053" y2="399" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7BD78"/>
+      <stop offset="1" stop-color="#9E8856"/>
+    </linearGradient>
+  </defs>
+  <path d="M676 0h524v850H506c92-108 117-235 91-365C559 289 565 142 676 0Z" fill="url(#wash)" opacity=".55"/>
+  <g stroke="#D7BD78" stroke-linecap="round" stroke-linejoin="round" opacity=".14">
+    <path d="M709 576c89-143 184-224 306-272M758 686c101-106 222-175 345-203M652 770c73-88 118-184 127-295"/>
+    <path d="M842 448c-2-49-33-83-86-91 2 50 32 84 86 91ZM917 388c11-53 49-82 109-78-11 53-49 81-109 78ZM806 563c-18-43-56-65-108-55 18 44 55 65 108 55ZM931 497c21-46 62-64 116-47-21 46-61 63-116 47ZM1040 341c3-51 34-82 88-85-3 51-34 82-88 85Z"/>
+    <path d="M950 711c-3-79-25-152-65-222M1050 694c-2-73 16-143 56-210M832 752c9-72 0-140-26-206"/>
+  </g>
+  <g opacity=".13">
+    <path d="M855 671h258l-20 100H836l19-100Z" fill="#1D2B42"/>
+    <path d="M884 617h198l31 54H855l29-54Z" fill="#8C774B"/>
+    <path d="M879 616h203M866 671h247M851 721h252" stroke="#D7BD78" stroke-width="2"/>
+    <path d="M922 617v54M985 617v54M1047 617v54M902 671l-9 50M1037 671l-9 50" stroke="#D7BD78" stroke-width="2"/>
+    <path d="M749 214c75-84 174-124 297-122-19 112-77 198-174 224-62 17-106-21-123-102Z" fill="url(#leaf)"/>
+    <path d="M765 303c73-81 151-139 240-185M790 281c-2-54-29-92-78-111 2 54 28 91 78 111ZM855 233c13-55 49-85 104-86-13 55-48 84-104 86ZM815 270c46 4 83 28 107 72-47-4-83-28-107-72Z" stroke="#D7BD78" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+  <g stroke="#D7BD78" stroke-linecap="round" opacity=".11">
+    <path d="M701 99h137M701 116h87M1051 529h87M1067 546h71M688 477h76M688 494h49"/>
+    <circle cx="1087" cy="205" r="77"/><circle cx="1087" cy="205" r="57"/><circle cx="1087" cy="205" r="37"/>
+  </g>
+</svg>
